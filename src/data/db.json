@@ -1,0 +1,644 @@
+{
+  "students": [
+    {
+      "id": "s1",
+      "matricNo": "FPO/CS/ND/2024/001",
+      "name": "Obi Emeka Peter",
+      "phone": "+2348031234567",
+      "department": "Computer Science",
+      "programme": "ND",
+      "entrySession": "2024/2025",
+      "currentSemester": 2
+    },
+    {
+      "id": "s2",
+      "matricNo": "FPO/CS/ND/2024/002",
+      "name": "Chinedu Ada Evelyn",
+      "phone": "+2348067891011",
+      "department": "Computer Science",
+      "programme": "ND",
+      "entrySession": "2024/2025",
+      "currentSemester": 2
+    },
+    {
+      "id": "s3",
+      "matricNo": "FPO/CS/ND/2024/003",
+      "name": "Aliyu Musa Bello",
+      "phone": "+2348091122334",
+      "department": "Computer Science",
+      "programme": "ND",
+      "entrySession": "2024/2025",
+      "currentSemester": 2
+    },
+    {
+      "id": "s4",
+      "matricNo": "FPO/CS/ND/2024/004",
+      "name": "Adebayo Segun Samuel",
+      "phone": "+2348055667788",
+      "department": "Computer Science",
+      "programme": "ND",
+      "entrySession": "2024/2025",
+      "currentSemester": 2
+    },
+    {
+      "id": "s_1783349239877",
+      "matricNo": "FPO/CS/HND/2026/100",
+      "name": "Emma",
+      "phone": "09066846864",
+      "department": "Computer Science",
+      "programme": "HND",
+      "entrySession": "2025/2026",
+      "currentSemester": 1
+    },
+    {
+      "id": "s_1783349406487",
+      "matricNo": "FPO/CS/HND/2025/091",
+      "name": "Chidel",
+      "phone": "09066846865",
+      "department": "Computer Science",
+      "programme": "HND",
+      "entrySession": "2024/2025",
+      "currentSemester": 1
+    }
+  ],
+  "courses": [
+    {
+      "id": "c1",
+      "code": "COM 111",
+      "title": "Introduction to Computing",
+      "units": 3,
+      "semester": 1,
+      "programme": "ND"
+    },
+    {
+      "id": "c2",
+      "code": "COM 112",
+      "title": "Introduction to Digital Electronics",
+      "units": 2,
+      "semester": 1,
+      "programme": "ND"
+    },
+    {
+      "id": "c3",
+      "code": "COM 113",
+      "title": "Introduction to Programming",
+      "units": 3,
+      "semester": 1,
+      "programme": "ND"
+    },
+    {
+      "id": "c4",
+      "code": "COM 114",
+      "title": "Statistics for Computing I",
+      "units": 2,
+      "semester": 1,
+      "programme": "ND"
+    },
+    {
+      "id": "c5",
+      "code": "GNS 111",
+      "title": "Citizenship Education I",
+      "units": 2,
+      "semester": 1,
+      "programme": "ND"
+    },
+    {
+      "id": "c6",
+      "code": "COM 121",
+      "title": "Programming in QBasic",
+      "units": 3,
+      "semester": 2,
+      "programme": "ND"
+    },
+    {
+      "id": "c7",
+      "code": "COM 122",
+      "title": "Computer Operations",
+      "units": 2,
+      "semester": 2,
+      "programme": "ND"
+    },
+    {
+      "id": "c8",
+      "code": "COM 123",
+      "title": "File Organization and Management",
+      "units": 2,
+      "semester": 2,
+      "programme": "ND"
+    },
+    {
+      "id": "c9",
+      "code": "COM 124",
+      "title": "Data Structures and Algorithms",
+      "units": 3,
+      "semester": 2,
+      "programme": "ND"
+    },
+    {
+      "id": "c10",
+      "code": "MTH 111",
+      "title": "Algebra and Trigonometry",
+      "units": 2,
+      "semester": 2,
+      "programme": "ND"
+    },
+    {
+      "id": "c11",
+      "code": "COM 211",
+      "title": "Programming in C",
+      "units": 3,
+      "semester": 3,
+      "programme": "ND"
+    },
+    {
+      "id": "c12",
+      "code": "COM 212",
+      "title": "Systems Analysis and Design",
+      "units": 2,
+      "semester": 3,
+      "programme": "ND"
+    },
+    {
+      "id": "c13",
+      "code": "COM 213",
+      "title": "Object-Oriented Programming (Java)",
+      "units": 3,
+      "semester": 3,
+      "programme": "ND"
+    },
+    {
+      "id": "c14",
+      "code": "COM 214",
+      "title": "Database Design I",
+      "units": 3,
+      "semester": 3,
+      "programme": "ND"
+    },
+    {
+      "id": "c15",
+      "code": "COM 221",
+      "title": "Programming in Visual Basic",
+      "units": 3,
+      "semester": 4,
+      "programme": "ND"
+    },
+    {
+      "id": "c16",
+      "code": "COM 222",
+      "title": "Operating Systems",
+      "units": 2,
+      "semester": 4,
+      "programme": "ND"
+    },
+    {
+      "id": "c17",
+      "code": "COM 223",
+      "title": "Database Design II",
+      "units": 3,
+      "semester": 4,
+      "programme": "ND"
+    },
+    {
+      "id": "c18",
+      "code": "COM 224",
+      "title": "Project Seminar",
+      "units": 4,
+      "semester": 4,
+      "programme": "ND"
+    },
+    {
+      "id": "c_1783349621884",
+      "code": "COM 424",
+      "title": "INTRODUCTION TO SYSTEM SECURITY",
+      "units": 3,
+      "semester": 1,
+      "programme": "HND"
+    }
+  ],
+  "results": [
+    {
+      "id": "r1_1",
+      "studentId": "s1",
+      "courseId": "c1",
+      "score": 82,
+      "grade": "A",
+      "gp": 4,
+      "semester": 1,
+      "session": "2024/2025",
+      "isApproved": true
+    },
+    {
+      "id": "r1_2",
+      "studentId": "s1",
+      "courseId": "c2",
+      "score": 72,
+      "grade": "AB",
+      "gp": 3.5,
+      "semester": 1,
+      "session": "2024/2025",
+      "isApproved": true
+    },
+    {
+      "id": "r1_3",
+      "studentId": "s1",
+      "courseId": "c3",
+      "score": 68,
+      "grade": "B",
+      "gp": 3,
+      "semester": 1,
+      "session": "2024/2025",
+      "isApproved": true
+    },
+    {
+      "id": "r1_4",
+      "studentId": "s1",
+      "courseId": "c4",
+      "score": 61,
+      "grade": "BC",
+      "gp": 2.5,
+      "semester": 1,
+      "session": "2024/2025",
+      "isApproved": true
+    },
+    {
+      "id": "r1_5",
+      "studentId": "s1",
+      "courseId": "c5",
+      "score": 77,
+      "grade": "A",
+      "gp": 4,
+      "semester": 1,
+      "session": "2024/2025",
+      "isApproved": true
+    },
+    {
+      "id": "r1_6",
+      "studentId": "s1",
+      "courseId": "c6",
+      "score": 78,
+      "grade": "A",
+      "gp": 4,
+      "semester": 2,
+      "session": "2024/2025",
+      "isApproved": false
+    },
+    {
+      "id": "r1_7",
+      "studentId": "s1",
+      "courseId": "c7",
+      "score": 66,
+      "grade": "B",
+      "gp": 3,
+      "semester": 2,
+      "session": "2024/2025",
+      "isApproved": false
+    },
+    {
+      "id": "r1_8",
+      "studentId": "s1",
+      "courseId": "c8",
+      "score": 73,
+      "grade": "AB",
+      "gp": 3.5,
+      "semester": 2,
+      "session": "2024/2025",
+      "isApproved": false
+    },
+    {
+      "id": "r1_9",
+      "studentId": "s1",
+      "courseId": "c9",
+      "score": 70,
+      "grade": "AB",
+      "gp": 3.5,
+      "semester": 2,
+      "session": "2024/2025",
+      "isApproved": false
+    },
+    {
+      "id": "r1_10",
+      "studentId": "s1",
+      "courseId": "c10",
+      "score": 58,
+      "grade": "C",
+      "gp": 2,
+      "semester": 2,
+      "session": "2024/2025",
+      "isApproved": false
+    },
+    {
+      "id": "r2_1",
+      "studentId": "s2",
+      "courseId": "c1",
+      "score": 88,
+      "grade": "A",
+      "gp": 4,
+      "semester": 1,
+      "session": "2024/2025",
+      "isApproved": true
+    },
+    {
+      "id": "r2_2",
+      "studentId": "s2",
+      "courseId": "c2",
+      "score": 81,
+      "grade": "A",
+      "gp": 4,
+      "semester": 1,
+      "session": "2024/2025",
+      "isApproved": true
+    },
+    {
+      "id": "r2_3",
+      "studentId": "s2",
+      "courseId": "c3",
+      "score": 76,
+      "grade": "A",
+      "gp": 4,
+      "semester": 1,
+      "session": "2024/2025",
+      "isApproved": true
+    },
+    {
+      "id": "r2_4",
+      "studentId": "s2",
+      "courseId": "c4",
+      "score": 71,
+      "grade": "AB",
+      "gp": 3.5,
+      "semester": 1,
+      "session": "2024/2025",
+      "isApproved": true
+    },
+    {
+      "id": "r2_5",
+      "studentId": "s2",
+      "courseId": "c5",
+      "score": 80,
+      "grade": "A",
+      "gp": 4,
+      "semester": 1,
+      "session": "2024/2025",
+      "isApproved": true
+    },
+    {
+      "id": "r2_6",
+      "studentId": "s2",
+      "courseId": "c6",
+      "score": 85,
+      "grade": "A",
+      "gp": 4,
+      "semester": 2,
+      "session": "2024/2025",
+      "isApproved": false
+    },
+    {
+      "id": "r2_7",
+      "studentId": "s2",
+      "courseId": "c7",
+      "score": 74,
+      "grade": "AB",
+      "gp": 3.5,
+      "semester": 2,
+      "session": "2024/2025",
+      "isApproved": false
+    },
+    {
+      "id": "r2_8",
+      "studentId": "s2",
+      "courseId": "c8",
+      "score": 82,
+      "grade": "A",
+      "gp": 4,
+      "semester": 2,
+      "session": "2024/2025",
+      "isApproved": false
+    },
+    {
+      "id": "r2_9",
+      "studentId": "s2",
+      "courseId": "c9",
+      "score": 79,
+      "grade": "A",
+      "gp": 4,
+      "semester": 2,
+      "session": "2024/2025",
+      "isApproved": false
+    },
+    {
+      "id": "r2_10",
+      "studentId": "s2",
+      "courseId": "c10",
+      "score": 72,
+      "grade": "AB",
+      "gp": 3.5,
+      "semester": 2,
+      "session": "2024/2025",
+      "isApproved": false
+    },
+    {
+      "id": "r3_1",
+      "studentId": "s3",
+      "courseId": "c1",
+      "score": 52,
+      "grade": "CD",
+      "gp": 1.5,
+      "semester": 1,
+      "session": "2024/2025",
+      "isApproved": true
+    },
+    {
+      "id": "r3_2",
+      "studentId": "s3",
+      "courseId": "c2",
+      "score": 48,
+      "grade": "D",
+      "gp": 1,
+      "semester": 1,
+      "session": "2024/2025",
+      "isApproved": true
+    },
+    {
+      "id": "r3_3",
+      "studentId": "s3",
+      "courseId": "c3",
+      "score": 42,
+      "grade": "E",
+      "gp": 0.5,
+      "semester": 1,
+      "session": "2024/2025",
+      "isApproved": true
+    },
+    {
+      "id": "r3_4",
+      "studentId": "s3",
+      "courseId": "c4",
+      "score": 55,
+      "grade": "C",
+      "gp": 2,
+      "semester": 1,
+      "session": "2024/2025",
+      "isApproved": true
+    },
+    {
+      "id": "r3_5",
+      "studentId": "s3",
+      "courseId": "c5",
+      "score": 58,
+      "grade": "C",
+      "gp": 2,
+      "semester": 1,
+      "session": "2024/2025",
+      "isApproved": true
+    },
+    {
+      "id": "r3_6",
+      "studentId": "s3",
+      "courseId": "c6",
+      "score": 62,
+      "grade": "BC",
+      "gp": 2.5,
+      "semester": 2,
+      "session": "2024/2025",
+      "isApproved": false
+    },
+    {
+      "id": "r3_7",
+      "studentId": "s3",
+      "courseId": "c7",
+      "score": 51,
+      "grade": "CD",
+      "gp": 1.5,
+      "semester": 2,
+      "session": "2024/2025",
+      "isApproved": false
+    },
+    {
+      "id": "r3_8",
+      "studentId": "s3",
+      "courseId": "c8",
+      "score": 56,
+      "grade": "C",
+      "gp": 2,
+      "semester": 2,
+      "session": "2024/2025",
+      "isApproved": false
+    },
+    {
+      "id": "r3_9",
+      "studentId": "s3",
+      "courseId": "c9",
+      "score": 48,
+      "grade": "D",
+      "gp": 1,
+      "semester": 2,
+      "session": "2024/2025",
+      "isApproved": false
+    },
+    {
+      "id": "r3_10",
+      "studentId": "s3",
+      "courseId": "c10",
+      "score": 60,
+      "grade": "BC",
+      "gp": 2.5,
+      "semester": 2,
+      "session": "2024/2025",
+      "isApproved": false
+    },
+    {
+      "id": "r_1783349673549",
+      "studentId": "s_1783349239877",
+      "courseId": "c_1783349621884",
+      "score": 80,
+      "grade": "A",
+      "gp": 4,
+      "semester": 1,
+      "session": "2024/2025",
+      "isApproved": true
+    },
+    {
+      "id": "r_1783349673618",
+      "studentId": "s_1783349406487",
+      "courseId": "c_1783349621884",
+      "score": 66,
+      "grade": "B",
+      "gp": 3,
+      "semester": 1,
+      "session": "2024/2025",
+      "isApproved": true
+    }
+  ],
+  "smsLogs": [
+    {
+      "id": "sms1",
+      "timestamp": "2026-07-06T12:44:14.337Z",
+      "sender": "+2348031234567",
+      "recipient": "30012",
+      "message": "RESULT FPO/CS/ND/2024/001 1",
+      "direction": "INBOUND",
+      "status": "DELIVERED",
+      "type": "PULL"
+    },
+    {
+      "id": "sms2",
+      "timestamp": "2026-07-06T12:44:15.339Z",
+      "sender": "30012",
+      "recipient": "+2348031234567",
+      "message": "FPO Atani Computer Science ND Sem 1 Result:\nObi Emeka Peter\nCOM 111: A (4.0)\nCOM 112: AB (3.5)\nCOM 113: B (3.0)\nCOM 114: BC (2.5)\nGNS 111: A (4.0)\nGPA: 3.42\nCGPA: 3.42 (Upper Credit)\nThank you.",
+      "direction": "OUTBOUND",
+      "status": "DELIVERED",
+      "type": "PULL"
+    },
+    {
+      "id": "sms_1783349679055_2av",
+      "timestamp": "2026-07-06T14:54:39.055Z",
+      "sender": "30012",
+      "recipient": "+2348031234567",
+      "message": "FPO Atani CS ND Sem 1 Result APPROVED:\nObi Emeka Peter\nCOM 111: A (4.0)\nCOM 112: AB (3.5)\nCOM 113: B (3.0)\nCOM 114: BC (2.5)\nGNS 111: A (4.0)\nGPA: 3.42\nCGPA: 3.42 (Upper Credit)\nCheck via SMS shortcode 30012.",
+      "direction": "OUTBOUND",
+      "status": "DELIVERED",
+      "type": "PUSH"
+    },
+    {
+      "id": "sms_1783349679056_uzo",
+      "timestamp": "2026-07-06T14:54:39.056Z",
+      "sender": "30012",
+      "recipient": "+2348067891011",
+      "message": "FPO Atani CS ND Sem 1 Result APPROVED:\nChinedu Ada Evelyn\nCOM 111: A (4.0)\nCOM 112: A (4.0)\nCOM 113: A (4.0)\nCOM 114: AB (3.5)\nGNS 111: A (4.0)\nGPA: 3.92\nCGPA: 3.92 (Distinction)\nCheck via SMS shortcode 30012.",
+      "direction": "OUTBOUND",
+      "status": "DELIVERED",
+      "type": "PUSH"
+    },
+    {
+      "id": "sms_1783349679056_mhq",
+      "timestamp": "2026-07-06T14:54:39.056Z",
+      "sender": "30012",
+      "recipient": "+2348091122334",
+      "message": "FPO Atani CS ND Sem 1 Result APPROVED:\nAliyu Musa Bello\nCOM 111: CD (1.5)\nCOM 112: D (1.0)\nCOM 113: E (0.5)\nCOM 114: C (2.0)\nGNS 111: C (2.0)\nGPA: 1.33\nCGPA: 1.33 (Fail)\nCheck via SMS shortcode 30012.",
+      "direction": "OUTBOUND",
+      "status": "DELIVERED",
+      "type": "PUSH"
+    },
+    {
+      "id": "sms_1783349679056_lw6",
+      "timestamp": "2026-07-06T14:54:39.056Z",
+      "sender": "30012",
+      "recipient": "09066846864",
+      "message": "FPO Atani CS HND Sem 1 Result APPROVED:\nEmma\nCOM 424: A (4.0)\nGPA: 4.00\nCGPA: 4.00 (Distinction)\nCheck via SMS shortcode 30012.",
+      "direction": "OUTBOUND",
+      "status": "DELIVERED",
+      "type": "PUSH"
+    },
+    {
+      "id": "sms_1783349679056_rxm",
+      "timestamp": "2026-07-06T14:54:39.056Z",
+      "sender": "30012",
+      "recipient": "09066846865",
+      "message": "FPO Atani CS HND Sem 1 Result APPROVED:\nChidel\nCOM 424: B (3.0)\nGPA: 3.00\nCGPA: 3.00 (Upper Credit)\nCheck via SMS shortcode 30012.",
+      "direction": "OUTBOUND",
+      "status": "DELIVERED",
+      "type": "PUSH"
+    }
+  ]
+}

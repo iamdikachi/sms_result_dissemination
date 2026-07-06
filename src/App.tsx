@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
-import { 
-  Users, BookOpen, FileText, MessageSquare, TrendingUp, Sparkles, 
+import {
+  Users, BookOpen, FileText, MessageSquare, TrendingUp, Sparkles,
   RefreshCw, GraduationCap, Server, ShieldCheck, HelpCircle, PhoneCall,
   Lock, LogOut, ShieldAlert, Key, X, Check
 } from "lucide-react";
@@ -275,7 +275,7 @@ export default function App() {
       {/* 3. Footer */}
       <footer className="bg-white border-t border-slate-150 py-5 text-center text-xs text-slate-400 mt-10">
         <div className="max-w-7xl mx-auto px-6 flex flex-col sm:flex-row items-center justify-between gap-4">
-          <p>© 2026 Department of Computer Science, Federal Polytechnic Oko, Atani Campus, Nigeria.</p>
+          <p>© 2026 Ezeh Chiemerie George, Federal Polytechnic Oko, Atani Campus, Nigeria.</p>
           <div className="flex items-center gap-3">
             <button
               onClick={() => setShowAdminModal(true)}
@@ -323,9 +323,7 @@ export default function App() {
                 <p className="text-xs text-slate-500 leading-relaxed">
                   Enter the computer science departmental access passcode to unlock grading matrices, curriculum tables, and student registries.
                 </p>
-                <p className="text-[11px] text-amber-600 font-bold bg-amber-50 px-2.5 py-1.5 rounded-lg">
-                  💡 Sandbox Passcode: <span className="font-mono font-extrabold select-all">admin</span>
-                </p>
+            
               </div>
 
               <form

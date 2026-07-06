@@ -6,7 +6,7 @@ import {
 import { Student, Course, Result, getClassOfDegree } from "../types.ts";
 
 interface AdminStatsProps {
-  students: Student[];
+  students: Student[];  
   courses: Course[];
   results: Result[];
   smsLogs: any[];
