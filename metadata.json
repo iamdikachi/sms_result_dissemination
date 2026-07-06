@@ -1,0 +1,6 @@
+{
+  "name": "Polytechnic SMS Result Dissemination System",
+  "description": "An automated result generation and SMS dissemination system with a secure admin dashboard, 4-point scale CGPA/FCGPA calculations, and interactive high-thinking AI academic advisory, using Federal Polytechnic Oko, Atani Campus (Computer Science Department) as a case study.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
