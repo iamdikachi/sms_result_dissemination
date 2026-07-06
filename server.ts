@@ -13,13 +13,27 @@ const PORT = 3000;
 
 app.use(express.json());
 
-// Database file path
-const DATA_DIR = path.join(process.cwd(), "src", "data");
+// Database file path - outside of src to prevent Vite from reloading the page on file changes
+const DATA_DIR = path.join(process.cwd(), "data");
 const DB_FILE = path.join(DATA_DIR, "db.json");
+
+// Migration support: copy existing database from legacy src/data folder if present
+const LEGACY_DATA_DIR = path.join(process.cwd(), "src", "data");
+const LEGACY_DB_FILE = path.join(LEGACY_DATA_DIR, "db.json");
 
 // Ensure data directory exists
 if (!fs.existsSync(DATA_DIR)) {
   fs.mkdirSync(DATA_DIR, { recursive: true });
+}
+
+// Perform migration if legacy file exists and new one does not
+if (fs.existsSync(LEGACY_DB_FILE) && !fs.existsSync(DB_FILE)) {
+  try {
+    fs.copyFileSync(LEGACY_DB_FILE, DB_FILE);
+    console.log("SUCCESS: Migrated database from legacy location src/data/db.json to data/db.json");
+  } catch (err) {
+    console.error("ERROR: Failed to migrate legacy database to new location:", err);
+  }
 }
 
 // Initial default database setup

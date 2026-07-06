@@ -48,7 +48,8 @@
       "department": "Computer Science",
       "programme": "HND",
       "entrySession": "2025/2026",
-      "currentSemester": 1
+      "currentSemester": 1,
+      "pin": "2179"
     },
     {
       "id": "s_1783349406487",
@@ -636,6 +637,16 @@
       "sender": "30012",
       "recipient": "09066846865",
       "message": "FPO Atani CS HND Sem 1 Result APPROVED:\nChidel\nCOM 424: B (3.0)\nGPA: 3.00\nCGPA: 3.00 (Upper Credit)\nCheck via SMS shortcode 30012.",
+      "direction": "OUTBOUND",
+      "status": "DELIVERED",
+      "type": "PUSH"
+    },
+    {
+      "id": "sms_reg_1783352544802",
+      "timestamp": "2026-07-06T15:42:24.802Z",
+      "sender": "30012",
+      "recipient": "09066846864",
+      "message": "[FPO Academic Portal] Verification code for Matric FPO/CS/HND/2026/100 is: 965004. Enter this OTP on the portal to set your private 4-digit PIN.",
       "direction": "OUTBOUND",
       "status": "DELIVERED",
       "type": "PUSH"
